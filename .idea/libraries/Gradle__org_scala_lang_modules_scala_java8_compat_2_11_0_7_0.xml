@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: org.scala-lang.modules:scala-java8-compat_2.11:0.7.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/modules/scala-java8-compat_2.11/0.7.0/scala-java8-compat_2.11-0.7.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

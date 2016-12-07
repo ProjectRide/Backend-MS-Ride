@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.fasterxml.jackson.datatype:jackson-datatype-hppc:2.7.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.datatype/jackson-datatype-hppc/2.7.3/baa7da0a6b1920ec0886726c3c29ec2732563bf5/jackson-datatype-hppc-2.7.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.datatype/jackson-datatype-hppc/2.7.3/b3b02460922d97c355291d2acec74fd3ba3410a8/jackson-datatype-hppc-2.7.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

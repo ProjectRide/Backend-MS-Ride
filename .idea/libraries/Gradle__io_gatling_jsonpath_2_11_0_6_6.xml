@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: io.gatling:jsonpath_2.11:0.6.6">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/gatling/jsonpath_2.11/0.6.6/jsonpath_2.11-0.6.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

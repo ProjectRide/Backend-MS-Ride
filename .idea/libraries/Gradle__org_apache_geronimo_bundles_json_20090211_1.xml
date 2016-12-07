@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.geronimo.bundles:json:20090211_1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/geronimo/bundles/json/20090211_1/json-20090211_1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

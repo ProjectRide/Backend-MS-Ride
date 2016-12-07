@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: net.sf.saxon:Saxon-HE:9.7.0-4">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/sf/saxon/Saxon-HE/9.7.0-4/Saxon-HE-9.7.0-4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: org.scala-lang.modules:scala-xml_2.11:1.0.5">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/modules/scala-xml_2.11/1.0.5/scala-xml_2.11-1.0.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

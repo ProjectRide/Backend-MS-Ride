@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: fr.ippon.spark.metrics:metrics-spark-reporter:1.2">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/fr/ippon/spark/metrics/metrics-spark-reporter/1.2/metrics-spark-reporter-1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

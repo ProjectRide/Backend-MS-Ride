@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: org.scala-lang:scala-reflect:2.11.8">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-reflect/2.11.8/scala-reflect-2.11.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

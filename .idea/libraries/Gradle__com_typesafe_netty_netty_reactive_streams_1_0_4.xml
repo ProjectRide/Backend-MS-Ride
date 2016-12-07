@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: com.typesafe.netty:netty-reactive-streams:1.0.4">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/typesafe/netty/netty-reactive-streams/1.0.4/netty-reactive-streams-1.0.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: org.asynchttpclient:netty-codec-dns:2.0.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/asynchttpclient/netty-codec-dns/2.0.0/netty-codec-dns-2.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
