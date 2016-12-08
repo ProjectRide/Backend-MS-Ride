@@ -21,7 +21,7 @@ eureka:
         fetchRegistry: true
         serviceUrl:
             #defaultZone: http://admin:admin@localhost:8761/eureka/
-            defaultZone: https://admin:admin@projectride-registry-server.herokuapp.com:8761/eureka/
+            defaultZone: http://admin:password@172.16.194.82:8761/eureka/
 
 spring:
     profiles:
